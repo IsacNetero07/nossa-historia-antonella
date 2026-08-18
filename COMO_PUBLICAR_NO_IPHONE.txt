@@ -1,0 +1,42 @@
+COMO COLOCAR A PWA NO IPHONE DA ANTONELLA
+
+A forma mais simples é publicar no GitHub Pages.
+
+1. No GitHub, crie um repositório novo, por exemplo:
+   nossa-historia-antonella
+
+2. Se sua conta for GitHub Free, deixe o repositório público para usar o GitHub Pages.
+
+3. Extraia esta pasta e envie TODOS os arquivos e pastas para a raiz do repositório.
+   O index.html precisa ficar na raiz.
+
+4. No repositório, abra:
+   Settings > Pages
+
+5. Em Build and deployment:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+   Depois clique em Save.
+
+6. Aguarde o GitHub publicar. Pode levar alguns minutos.
+
+7. O endereço normalmente será:
+   https://SEU-USUARIO.github.io/nossa-historia-antonella/
+
+8. Teste esse endereço no seu próprio celular antes de mandar para ela.
+
+NO IPHONE DELA:
+1. Abra o link no Safari.
+2. Toque no botão Compartilhar.
+3. Escolha "Adicionar à Tela de Início".
+4. Toque em "Adicionar".
+
+Depois disso ela terá um ícone na tela inicial e poderá abrir a surpresa sempre que quiser.
+
+IMPORTANTE:
+- O localhost (python -m http.server) só serve para testes no seu PC/rede.
+- O GitHub Pages deixa o site disponível na internet.
+- Como as fotos são pessoais, lembre que um site público pode ser acessado por qualquer pessoa que tenha o endereço.
+- O site pode ser aberto pelo Safari mesmo sem adicionar à tela inicial.
+- O GitHub informa que a publicação/alterações podem levar alguns minutos para aparecer.

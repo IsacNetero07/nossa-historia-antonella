@@ -1,0 +1,18 @@
+{
+  "name": "Nossa História",
+  "short_name": "Nossa História",
+  "description": "Uma carta digital especial.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#211511",
+  "theme_color": "#241712",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

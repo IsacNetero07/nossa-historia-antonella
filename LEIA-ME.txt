@@ -1,0 +1,15 @@
+NOSSA HISTÓRIA — VERSÃO COMPLETA V4
+
+Correção: as quatro fotos reais agora aparecem diretamente nas Polaroids. Elas não são modificadas, filtradas ou geradas por IA.
+
+Fotos incluídas:
+- foto1.jpg = praia
+- foto2.jpg = Move
+- foto3.jpg = quadrilha
+- foto4.jpg = outros momentos
+
+Para testar em uma pasta nova:
+python -m http.server 8004
+http://localhost:8004
+
+A porta 8004 evita o cache das versões antigas.
